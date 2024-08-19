@@ -10,7 +10,7 @@ global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = 254759799995'  //creator number
+global.ownernumber = '254759799995'  //creator number
 global.ownername = 'KADINYA' //owner name
 global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
 
